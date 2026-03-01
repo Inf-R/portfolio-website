@@ -1,4 +1,4 @@
-![Logo](cp.png)
+![Logo](cp.pn)
 
 # Rangga Portfolio Website 💻
 
